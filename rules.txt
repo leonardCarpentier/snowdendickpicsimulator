@@ -1,0 +1,29 @@
+Set-up:
+
+Randomly draw 25 tiles and arrange them in 5 rows of 5. This is your board.
+
+Stack the remaining tiles.
+
+Place the NSA marker on the left side of the board and the "YOUR VERY SPECIAL SOMEONE" marker on the top of the board. 
+
+Place the first dick on the bottom-right tile (opposed to both NSA and YVSS).
+
+The Game:
+
+First player is the innocent smartphone user, second player is NSA.
+
+Taking turns, draw two tiles, play one and discard the other one. When the stack is empty, shuffle the discarded tiles stack and use it.
+
+A tile can be a path or a bonus.
+
+A path can be pushed from any side of the board, pusing a row or a column and ejecting another path from the board that will be discarded too.
+
+/!\ A tile-pushing cannot result in a dickpic being ejected from the board. 
+
+A Bonus is either a "New Dickpic" (add a dickpic on the other tile you draw and push it on the opposite side to your marker, if not possible, just put the dickpick on the starting tile, bottom right), a switch (switch two tiles on the board without rotation, cannot switch a tile with a dick on it) or a rotation (rotate a tile on the board).
+
+Each tile has a number on each corner: this is the movement value. After pushing a path or using a bonus, you can pick a dickpic of your choice and have it move from a maximum of X tiles, X being the movement value of the tile your used. You can only move following paths on the board tiles.
+
+If the board end-up dickpicless after a round, put a new one on the starting, bottom-righ tile.
+
+The goal is to have dickpics escape by your side of the board. The game ends when you have 3 dickpicks on your marker.
